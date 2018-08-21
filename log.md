@@ -34,7 +34,7 @@
 
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
 
-### Day 6: August 12, 2018
+### Day 5: August 12, 2018
 
 **Today's Progress**: Completed 12 challenges of Regex curriculum on free Code Camp
 
@@ -62,22 +62,64 @@
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
-### Day 7: August 15, 2018
+### Day 8: August 15, 2018
 
-**Today's Progress**: Mostly completed the Header section, mobile first!!!😚
+**Today's Progress**: Mostly completed the Header section with hero and nav bar, mobile first!!!😚
 
 **Thoughts**: Css has been difficult since I've been pampered with Bootstrap and all the other great ui components. But it is great to revisit. 2 more days, don't know if I will finish in time.
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
 
 
-### Day 7: August 16, 2018
+### Day 9: August 16, 2018
 
-**Today's Progress**: Tried endlessly to use react with shopify, but with little to no documentation I do not believe I will finish by tomorrow
+**Today's Progress**: Incorporated react into file structure, tried to get everything connected. Fail
 
-**Thoughts**: I will still apply and upload what I have.
+**Thoughts**: Tried endlessly to use react with shopify, but with little to no documentation I do not believe I will finish by tomorrow. I will still apply and upload what I have.
 
 **Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+### Day 10: August 17, 2018
+
+**Today's Progress**: Setup Worpress and panteon repo with lando.
+
+**Thoughts**: I began a new repo using wordpress instead of shopify believing it word be easier to compile. Well nope, I do not know php or wordpress. I could have eventually figured it out but short on time. I will try again.
+**Link(s) to work**: [barrel_app](https://gitlab.com/crissygrant82/barrel_app)
+
+
+
+### Day 11: August 18, 2018
+
+**Today's Progress**: Day off
+
+**Thoughts**: I needed this time to just relax my brain after the barrel code challenge. I will be back at it tomorrow
+
+**Link(s) to work**:
+
+### Day 12: August 19, 2018
+
+**Today's Progress**: Started the hero image slider
+
+**Thoughts**: Just begin the code challenge for socialable apprenticeship. I need to learn gql fast.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+### Day 13: August 20, 2018
+
+**Today's Progress**: Finished hero info and started language toggle.
+
+**Thoughts**: Have a lot more to finish
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
+
+
+### Day 14: August 21, 2018
+
+**Today's Progress**: Completed hero image scroll and language toggle.
+
+**Thoughts**: Half way done with this project. It feels great marking things off the to do list.
+
+**Link(s) to work**: [Social Table code challenge](https://github.com/crissygrant82/socialtable_venue)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

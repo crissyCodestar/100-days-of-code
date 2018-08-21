@@ -38,3 +38,26 @@ Barrel code challenge, header section mostly completed
 ### R1D9
 
 Barrel code challenge, compiling shopify and react
+
+
+### R1D10
+
+I failed, I was not able to complete the code challenge
+
+
+### R1D11
+
+Rested my brain
+
+
+### R1D12
+
+Began Social table code challenge
+
+### R1D13
+
+Social Table code challenge, completed a few things but need to work faster to get it done.
+
+### R1D14
+
+Completed half the project and will start on the review side.
