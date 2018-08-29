@@ -77,3 +77,11 @@ Working to complete review stars and trashcan delete
 ### R1D18
 
 Completed post query using GraphQl for the first time.
+
+### R1D19
+
+Great learning experience, taught myself GraphQl on the fly. Awesome!!!
+
+### R1D20
+
+Free code camp, JavaScript curriculum, back to basics
