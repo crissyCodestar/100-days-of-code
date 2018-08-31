@@ -172,6 +172,33 @@
 **Thoughts**: Re-learning the basics thoroughly to insure my understanding to allow me to use   
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+### Day 21: August 28, 2018
+
+**Today's Progress**: Wes Bos Redux tutorial, updated all files including webpack and babel.
+
+**Thoughts**: Trying to learn redux but instead learning about webpack and babel, totally need this.
+
+**Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
+
+### Day 22: August 29, 2018
+
+**Today's Progress**: Tried to update package, but began a new react base from scratch using webpack and babel.
+
+**Thoughts**: Everything compiles more effectively without all the additional plugins and transforms
+
+**Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
+
+### Day 23: August 30, 2018
+
+**Today's Progress**: Added router and figured out browser history now that router does not provide it as a component
+
+**Thoughts**: Officially started the tutorial but realizing that a lot of code is obsolete
+
+**Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
+
+
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
