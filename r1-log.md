@@ -85,3 +85,15 @@ Great learning experience, taught myself GraphQl on the fly. Awesome!!!
 ### R1D20
 
 Free code camp, JavaScript curriculum, back to basics
+
+### R1D21
+
+Wes Bos Redux tutorial
+
+### R1D22
+
+Wes Bos Redux tutorial is great to learn how to update a package.
+
+### R1D23
+
+Implement react router and browser router with links for all pages.
