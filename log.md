@@ -205,3 +205,12 @@
 **Thoughts**:Taking too much time to figure out updated alternatives to deprecated libraries
 
 **Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
+
+
+### Day 25: September 1, 2018
+
+**Today's Progress**: Store and history setup. Actions added for user actions lol
+
+**Thoughts**: Figuring out how to create history with different libraries than the ones Bos is using
+
+**Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
