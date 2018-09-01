@@ -97,3 +97,7 @@ Wes Bos Redux tutorial is great to learn how to update a package.
 ### R1D23
 
 Implement react router and browser router with links for all pages.
+
+### R1D24
+
+Fixed bugs and add redux 

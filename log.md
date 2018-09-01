@@ -198,12 +198,10 @@
 **Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
 
 
+### Day 24: August 31, 2018
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: Setup redux store and actions, fixed a few issues with react cloneElements
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**:Taking too much time to figure out updated alternatives to deprecated libraries
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com) -->
+**Link(s) to work**: [Crissy's Redux](https://github.com/crissygrant82/react_redux)
