@@ -100,4 +100,12 @@ Implement react router and browser router with links for all pages.
 
 ### R1D24
 
-Fixed bugs and add redux 
+Fixed bugs and add redux
+
+### R1D25
+
+Have a few bugs but store and actions are setup
+
+### R1D26
+
+Graphic material
