@@ -105,3 +105,7 @@ Fixed bugs and add redux
 ### R1D25
 
 Have a few bugs but store and actions are setup
+
+### R1D26
+
+Graphic material
