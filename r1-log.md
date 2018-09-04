@@ -109,3 +109,7 @@ Have a few bugs but store and actions are setup
 ### R1D26
 
 Graphic material
+
+### R1D27
+
+JavaScript basic algorithms
