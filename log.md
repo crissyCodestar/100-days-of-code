@@ -223,3 +223,11 @@
 **Thoughts**: Figuring who I am to create a personalized experience
 
 **Link(s) to work**: [Portfolio_v1](https://github.com/crissygrant82/Portfolio_v1.0)
+
+### Day 27: September 3, 2018
+
+**Today's Progress**: JS basic algorithms review
+
+**Thoughts**:   
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
