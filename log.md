@@ -231,3 +231,13 @@
 **Thoughts**:   
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+
+### Day 28: September 4, 2018
+
+**Today's Progress**: Completed basic algorithms on freecodecamp
+
+**Thoughts**: I know more than I know  
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
