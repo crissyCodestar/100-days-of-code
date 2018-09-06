@@ -241,3 +241,13 @@
 **Thoughts**: I know more than I know  
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+
+### Day 29: September 5, 2018
+
+**Today's Progress**: More algorithms
+
+**Thoughts**: Good work
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
