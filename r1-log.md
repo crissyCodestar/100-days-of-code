@@ -117,3 +117,7 @@ JavaScript basic algorithms
 ### R1D28
 
 JavaScript basic algorithms(complete)
+
+### R1D29
+
+More algorithms
