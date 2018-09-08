@@ -121,3 +121,11 @@ JavaScript basic algorithms(complete)
 ### R1D29
 
 More algorithms
+
+### R1D30
+
+Break
+
+### R1D31
+
+Cont. algorithms

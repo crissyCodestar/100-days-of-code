@@ -251,3 +251,24 @@
 **Thoughts**: Good work
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+
+
+### Day 30: September 6, 2018
+
+**Today's Progress**: Break day
+
+**Thoughts**: Brain relax
+
+**Link(s) to work**: No work
+
+
+
+### Day 31: September 7, 2018
+
+**Today's Progress**: Cont.  algorithms
+
+**Thoughts**: learning recursion
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
