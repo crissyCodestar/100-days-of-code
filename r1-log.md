@@ -129,3 +129,7 @@ Break
 ### R1D31
 
 Cont. algorithms
+
+### R1D32 - R1D33
+
+Cont. algorithms, OOP, reviewing basics and intermediate JavaScript
