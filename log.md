@@ -267,8 +267,19 @@
 
 ### Day 31: September 7, 2018
 
-**Today's Progress**: Cont.  algorithms
+**Today's Progress**: Cont. algorithms, applying recursions
 
-**Thoughts**: learning recursion
+**Thoughts**: Too much work to process
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+
+
+### Day 32-33: September 8-9, 2018
+
+**Today's Progress**: Cont. algorithms, learning OOP, and studying for Intrepid interview
+
+**Thoughts**: Forgot to push to repo for the last few days but have definitely completed a lot of work study.
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
