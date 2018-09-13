@@ -133,3 +133,7 @@ Cont. algorithms
 ### R1D32 - R1D33
 
 Cont. algorithms, OOP, reviewing basics and intermediate JavaScript
+
+### R1D32 - R1D33
+
+Restarted chomp project
