@@ -243,7 +243,6 @@
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
 
 
-
 ### Day 29: September 5, 2018
 
 **Today's Progress**: More algorithms
@@ -251,8 +250,6 @@
 **Thoughts**: Good work
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
-
-
 
 
 ### Day 30: September 6, 2018
@@ -264,7 +261,6 @@
 **Link(s) to work**: No work
 
 
-
 ### Day 31: September 7, 2018
 
 **Today's Progress**: Cont. algorithms, applying recursions
@@ -274,8 +270,6 @@
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
 
 
-
-
 ### Day 32-33: September 8-9, 2018
 
 **Today's Progress**: Cont. algorithms, learning OOP, and studying for Intrepid interview
@@ -283,3 +277,12 @@
 **Thoughts**: Forgot to push to repo for the last few days but have definitely completed a lot of work study.
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+### Day 34-36: September 10-12, 2018
+
+**Today's Progress**: Added features section for events and business links for individual pages
+
+**Thoughts**: Want to complete this project to display on my page
+
+**Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
