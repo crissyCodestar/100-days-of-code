@@ -286,3 +286,13 @@
 **Thoughts**: Want to complete this project to display on my page
 
 **Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+
+### Day 37-39: September 13-15, 2018
+
+**Today's Progress**: Data structure and object oriented programming
+
+**Thoughts**: Studying in hopes of passing the interview at IP
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
