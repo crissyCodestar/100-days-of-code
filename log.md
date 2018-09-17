@@ -296,3 +296,11 @@
 **Thoughts**: Studying in hopes of passing the interview at IP
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+### Day 40: September 16, 2018
+
+**Today's Progress**: OOP
+
+**Thoughts**: Studying in hopes of passing the interview at IP
+
+**Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
