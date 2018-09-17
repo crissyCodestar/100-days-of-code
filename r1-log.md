@@ -141,3 +141,7 @@ Restarted chomp project
 ### R1D37 - R1D39
 
 Studying for interview
+
+### R1D40
+
+OOP studying for interview
