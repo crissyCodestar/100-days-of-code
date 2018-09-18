@@ -304,3 +304,12 @@
 **Thoughts**: Studying in hopes of passing the interview at IP
 
 **Link(s) to work**: [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+### Day 41: September 17, 2018
+
+**Today's Progress**: Studying node
+
+**Thoughts**: Node process through event loops (provided by Libuv threads), using non-blocking I/O to execute asynchronous operations
+
+**Link(s) to work**: [Understanding event loops](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
