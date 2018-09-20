@@ -149,3 +149,7 @@ OOP studying for interview
 ### R1D41
 
 Node.JS review
+
+### R1D42 & R1D43
+
+Studying basic algorithms and API testing
