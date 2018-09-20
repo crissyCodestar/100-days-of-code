@@ -315,8 +315,6 @@
 **Link(s) to work**: [Understanding event loops](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
 
 
-
-
 ### Day 42 & 43: September 18 & 19, 2018
 
 **Today's Progress**: Studying basic algorithms and API testing
@@ -325,3 +323,12 @@
 
 **Link(s) to work**: [API testing](https://blog.parasoft.com/what-is-api-testing-and-are-you-doing-it-right)
 [Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+
+### Day 44: September 20, 2018
+
+**Today's Progress**: Whiteboarding  and various interview discussions about code
+
+**Thoughts**: 3 hours of coding & interviewing
+
+**Link(s) to work**:
