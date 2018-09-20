@@ -313,3 +313,15 @@
 **Thoughts**: Node process through event loops (provided by Libuv threads), using non-blocking I/O to execute asynchronous operations
 
 **Link(s) to work**: [Understanding event loops](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+
+
+
+
+### Day 42 & 43: September 18 & 19, 2018
+
+**Today's Progress**: Studying basic algorithms and API testing
+
+**Thoughts**: API testing using component and scenario testing of each individual method and endpoints
+
+**Link(s) to work**: [API testing](https://blog.parasoft.com/what-is-api-testing-and-are-you-doing-it-right)
+[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
