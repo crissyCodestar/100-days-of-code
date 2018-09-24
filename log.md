@@ -327,8 +327,16 @@
 
 ### Day 44: September 20, 2018
 
-**Today's Progress**: Whiteboarding  and various interview discussions about code
+**Today's Progress**: Whiteboarding, various interview exercises and discussions in reference to JavaScript
 
 **Thoughts**: 3 hours of coding & interviewing
 
 **Link(s) to work**:
+
+### Day 45-47: September 21-23, 2018
+
+**Today's Progress**: Basic Javascript, reviewing interview questions
+
+**Thoughts**: Need to really understand basic JS algorithms
+
+**Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)

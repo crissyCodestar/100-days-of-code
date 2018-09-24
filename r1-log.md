@@ -154,7 +154,10 @@ Node.JS review
 
 Studying basic algorithms and API testing
 
-
 ### R1D44
 
 3 hours of coding & interviews
+
+### R1D45 - R1D47
+
+Need to do better with algorithms
