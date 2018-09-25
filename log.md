@@ -340,3 +340,11 @@
 **Thoughts**: Need to really understand basic JS algorithms
 
 **Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+### Day 48: September 24, 2018
+
+**Today's Progress**: Again basic Javascript, reviewing interview questions
+
+**Thoughts**: Need to really understand basic JS algorithms
+
+**Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
