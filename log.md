@@ -348,3 +348,11 @@
 **Thoughts**: Need to really understand basic JS algorithms
 
 **Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+### Day 49: September 25, 2018
+
+**Today's Progress**: Algorithm practice
+
+**Thoughts**: 😌
+
+**Link(s) to work**:[Crissy's Coderbyte](https://coderbyte.com/profile/crystalgrant82)
