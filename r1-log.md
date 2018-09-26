@@ -163,4 +163,9 @@ Studying basic algorithms and API testing
 Need to do better with algorithms
 
 ### R1D48
+
+Basic JS algorithms
+
+### R1D49
+
 Basic JS algorithms
