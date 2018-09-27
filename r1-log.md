@@ -169,3 +169,8 @@ Basic JS algorithms
 ### R1D49
 
 Basic JS algorithms
+
+
+### R1D50
+
+Basic JS algorithms
