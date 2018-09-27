@@ -356,3 +356,12 @@
 **Thoughts**: 😌
 
 **Link(s) to work**:[Crissy's Coderbyte](https://coderbyte.com/profile/crystalgrant82)
+
+
+### Day 50: September 26, 2018
+
+**Today's Progress**: Basic Javascript, reviewing interview questions
+
+**Thoughts**: Algorithm practice
+
+**Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
