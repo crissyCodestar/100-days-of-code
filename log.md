@@ -365,3 +365,11 @@
 **Thoughts**: Algorithm practice
 
 **Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy)
+
+### Day 51: September 27, 2018
+
+**Today's Progress**: Basic Javascript, Includes new and hot restaurants and links to restaurant page
+
+**Thoughts**: Algorithm practice, React js, Yelp api 
+
+**Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy), [Chomp project](https://github.com/crissygrant82/Chomp)
