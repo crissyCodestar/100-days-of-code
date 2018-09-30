@@ -370,6 +370,15 @@
 
 **Today's Progress**: Basic Javascript, Includes new and hot restaurants and links to restaurant page
 
-**Thoughts**: Algorithm practice, React js, Yelp api 
+**Thoughts**: Algorithm practice, React js, Yelp api
+
+**Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy), [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 52-53: September 28-29, 2018
+
+**Today's Progress**: Created business profile page, have info from api
+
+**Thoughts**: After practicing my basic everything is easier to implement functionality in my Chomp React app
 
 **Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy), [Chomp project](https://github.com/crissygrant82/Chomp)
