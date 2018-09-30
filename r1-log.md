@@ -178,3 +178,7 @@ Basic JS algorithms
 ### R1D51
 
 Basic JS algorithms, App content
+
+### R1D52-53
+
+Chomp ReactJS app
