@@ -382,3 +382,28 @@
 **Thoughts**: After practicing my basic everything is easier to implement functionality in my Chomp React app
 
 **Link(s) to work**:[Crissy's Free Code Camp](https://www.freecodecamp.org/crissy), [Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 54: September 30, 2018
+
+**Today's Progress**: Changed project layout, added featured section
+
+**Thoughts**: Understanding a good project layout makes everything simpler
+
+**Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 55: October 1, 2018
+
+**Today's Progress**:  UI setup for business profile page, Implementing page info
+
+**Thoughts**:Page almost done
+
+**Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 56: October 2, 2018
+
+**Today's Progress**:  Algorithm practice
+
+**Thoughts**:
+
+**Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)

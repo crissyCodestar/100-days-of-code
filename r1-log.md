@@ -182,3 +182,15 @@ Basic JS algorithms, App content
 ### R1D52-53
 
 Chomp ReactJS app
+
+### R1D54
+
+Chomp app
+
+### R1D55
+
+Chomp app
+
+### R1D56
+
+Codewars OOP
