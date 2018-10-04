@@ -194,3 +194,7 @@ Chomp app
 ### R1D56
 
 Codewars OOP
+
+### R1D56
+
+General basic Javascript
