@@ -198,3 +198,7 @@ Codewars OOP
 ### R1D56
 
 General basic Javascript
+
+### R1D57-58
+
+General basic Javascript
