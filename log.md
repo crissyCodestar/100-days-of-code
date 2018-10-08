@@ -424,3 +424,14 @@
 **Thoughts**:
 
 **Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)
+
+
+
+
+### Day 61: October 7, 2018
+
+**Today's Progress**:  Again more algorithm practice
+
+**Thoughts**: Practice makes perfect
+
+**Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)
