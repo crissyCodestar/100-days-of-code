@@ -435,3 +435,14 @@
 **Thoughts**: Practice makes perfect
 
 **Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)
+
+
+
+
+### Day 63: October 9, 2018
+
+**Today's Progress**: searched search bar for Chomp app, Testing on code academy 
+
+**Thoughts**: Finishing up app soon
+
+**Link(s) to work**: [Code Academy](https://www.codecademy.com/crystagrant82), [Chomp project](https://github.com/crissygrant82/Chomp)
