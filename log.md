@@ -426,8 +426,6 @@
 **Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)
 
 
-
-
 ### Day 61: October 7, 2018
 
 **Today's Progress**:  Again more algorithm practice
@@ -436,13 +434,35 @@
 
 **Link(s) to work**: [Codewars](http://www.codewars.com/kata/count-characters-in-your-string)
 
+### Day 62: October 8, 2018
 
+**Today's Progress**: Day off
+
+**Thoughts**:
+
+**Link(s) to work**:
 
 
 ### Day 63: October 9, 2018
 
-**Today's Progress**: searched search bar for Chomp app, Testing on code academy 
+**Today's Progress**: searched search bar for Chomp app, Testing on codecademy
 
 **Thoughts**: Finishing up app soon
 
-**Link(s) to work**: [Code Academy](https://www.codecademy.com/crystagrant82), [Chomp project](https://github.com/crissygrant82/Chomp)
+**Link(s) to work**: [Codecademy](https://www.codecademy.com/crystagrant82), [Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 64: October 10, 2018
+
+**Today's Progress**: Chomp App (featured section)
+
+**Thoughts**: Css is a tough cookie
+
+**Link(s) to work**:  [Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 65: October 11, 2018
+
+**Today's Progress**:Chomp App (Hot and New and featured) add css formatting, Python lessons on Codecademy
+
+**Thoughts**: Python is basically JavaScript but with less typing
+
+**Link(s) to work**: [Codecademy](https://www.codecademy.com/crystagrant82), [Chomp project](https://github.com/crissygrant82/Chomp)

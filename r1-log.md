@@ -210,3 +210,11 @@ General basic Javascript
 ### R1D63
 
 App and Code Academy
+
+### R1D64
+
+Chomp App featured section
+
+### R1D65
+
+Chomp App featured section and Python lessons on codecademy
