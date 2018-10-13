@@ -466,3 +466,12 @@
 **Thoughts**: Python is basically JavaScript but with less typing
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com/crystagrant82), [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 65: October 11, 2018
+
+**Today's Progress**: Codecademy data science, focusing on SQL
+
+**Thoughts**: Love querying
+
+**Link(s) to work**: [Codecademy](https://www.codecademy.com/learn/paths/data-science), [Chomp project](https://github.com/crissygrant82/Chomp)
