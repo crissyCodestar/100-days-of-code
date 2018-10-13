@@ -218,3 +218,7 @@ Chomp App featured section
 ### R1D65
 
 Chomp App featured section and Python lessons on codecademy
+
+### R1D65
+
+Codecademy data science with sql
