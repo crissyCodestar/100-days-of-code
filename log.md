@@ -475,3 +475,22 @@
 **Thoughts**: Love querying
 
 **Link(s) to work**: [Codecademy](https://www.codecademy.com/learn/paths/data-science), [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+
+### Day 66: October 12, 2018
+
+**Today's Progress**: Chomp get Review JSON object extraction
+
+**Thoughts**: fetch is awesome
+
+**Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 67: October 12, 2018
+
+**Today's Progress**: Graphics for Chomp app
+
+**Thoughts**: Illustrator
+
+**Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
