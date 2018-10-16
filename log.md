@@ -494,3 +494,12 @@
 **Thoughts**: Illustrator
 
 **Link(s) to work**: [Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 68: October 13, 2018
+
+**Today's Progress**: Sql query intermediate
+
+**Thoughts**:
+
+**Link(s) to work**:[Codecademy](https://www.codecademy.com/learn/paths/data-science)

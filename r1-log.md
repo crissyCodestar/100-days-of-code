@@ -230,3 +230,7 @@ Chomp app(cont.) Review JSON object
 ### R1D67
 
 Graphic design for chomp app
+
+### R1D68
+
+Sql query intermediate
