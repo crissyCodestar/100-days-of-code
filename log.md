@@ -500,6 +500,6 @@
 
 **Today's Progress**: Sql query intermediate
 
-**Thoughts**:
+**Thoughts**: Need to submit again for github
 
 **Link(s) to work**:[Codecademy](https://www.codecademy.com/learn/paths/data-science)
