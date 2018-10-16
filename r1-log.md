@@ -222,3 +222,15 @@ Chomp App featured section and Python lessons on codecademy
 ### R1D65
 
 Codecademy data science with sql
+
+### R1D66
+
+Chomp app(cont.) Review JSON object
+
+### R1D67
+
+Graphic design for chomp app
+
+### R1D68
+
+Sql query intermediate
