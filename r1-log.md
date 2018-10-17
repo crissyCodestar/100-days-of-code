@@ -234,3 +234,7 @@ Graphic design for chomp app
 ### R1D68
 
 Sql query intermediate
+
+### R1D69
+
+Sql aggregated functions 

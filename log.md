@@ -503,3 +503,11 @@
 **Thoughts**: Need to submit again for github
 
 **Link(s) to work**:[Codecademy](https://www.codecademy.com/learn/paths/data-science)
+
+### Day 69: October 14, 2018
+
+**Today's Progress**: Sql aggregated functions
+
+**Thoughts**: Almost done with sql and moving on to Python
+
+**Link(s) to work**:[Codecademy](https://www.codecademy.com/learn/paths/data-science)
