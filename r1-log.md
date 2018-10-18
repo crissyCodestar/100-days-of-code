@@ -237,4 +237,8 @@ Sql query intermediate
 
 ### R1D69
 
-Sql aggregated functions 
+Sql aggregated functions
+
+### R1D70-71
+
+Review section, added review, stars, user photo etc.
