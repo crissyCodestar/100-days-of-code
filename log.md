@@ -519,3 +519,13 @@
 **Thoughts**: CSS to come
 
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+
+### Day 72-76 October 17-21, 2018
+
+**Today's Progress**: Working on body section
+
+**Thoughts**:
+
+**Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)

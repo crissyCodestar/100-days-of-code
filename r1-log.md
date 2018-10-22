@@ -242,3 +242,7 @@ Sql aggregated functions
 ### R1D70-71
 
 Review section, added review, stars, user photo etc.
+
+### R1D72-76
+
+Working on body section
