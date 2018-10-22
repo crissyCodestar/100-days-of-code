@@ -526,6 +526,6 @@
 
 **Today's Progress**: Working on body section
 
-**Thoughts**:
+**Thoughts**: Was unable to push last night
 
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
