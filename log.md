@@ -512,7 +512,7 @@
 
 **Link(s) to work**:[Codecademy](https://www.codecademy.com/learn/paths/data-science)
 
-### Day 70-71: October 15-16, 2018
+### Days 70-71: October 15-16, 2018
 
 **Today's Progress**: Completed review info section
 
@@ -522,10 +522,18 @@
 
 
 
-### Day 72-76 October 17-21, 2018
+### Days 72-76 October 17-21, 2018
 
 **Today's Progress**: Working on body section
 
 **Thoughts**: Was unable to push last night
+
+**Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 77 October 22, 2018
+
+**Today's Progress**: Body search handle and css background image
+
+**Thoughts**: slowly progressing with this app
 
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
