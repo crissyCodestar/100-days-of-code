@@ -246,3 +246,11 @@ Review section, added review, stars, user photo etc.
 ### R1D72-76
 
 Working on body section
+
+### R1D77
+
+Body search handle and css
+
+### R1D77
+
+Cors error came from no where. Started business list css
