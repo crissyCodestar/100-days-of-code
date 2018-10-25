@@ -249,4 +249,8 @@ Working on body section
 
 ### R1D77
 
-Body search handle and css 
+Body search handle and css
+
+### R1D77
+
+Cors error came from no where. Started business list css

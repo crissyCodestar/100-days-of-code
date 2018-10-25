@@ -537,3 +537,12 @@
 **Thoughts**: slowly progressing with this app
 
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
+
+
+### Day 78 October 23, 2018
+
+**Today's Progress**: business list css, filter sort
+
+**Thoughts**: Must get sort method to update business list. cors ever, trying to fix
+
+**Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
