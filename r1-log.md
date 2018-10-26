@@ -251,6 +251,10 @@ Working on body section
 
 Body search handle and css
 
-### R1D77
+### R1D78
 
 Cors error came from no where. Started business list css
+
+### R1D79
+
+Restarting portfolio, compiled webpak and babel. organizing folder
