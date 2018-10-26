@@ -539,10 +539,18 @@
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
 
 
-### Day 78 October 23, 2018
+### Day 78 October 24, 2018
 
 **Today's Progress**: business list css, filter sort
 
 **Thoughts**: Must get sort method to update business list. cors ever, trying to fix
 
 **Link(s) to work**:[Chomp project](https://github.com/crissygrant82/Chomp)
+
+### Day 79 October 25, 2018
+
+**Today's Progress**: Portfolio webpack and babel setup
+
+**Thoughts**: Restarted portfolio, needed a simpler layout than the previous version
+
+**Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
