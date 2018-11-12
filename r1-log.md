@@ -258,3 +258,7 @@ Cors error came from no where. Started business list css
 ### R1D79
 
 Restarting portfolio, compiled webpak and babel. organizing folder
+
+### R1D80-85
+
+Webpak, babel, react, react router, file configuration
