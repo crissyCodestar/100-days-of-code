@@ -562,3 +562,12 @@
 **Thoughts**: Webpak loaders configuration for css and url, had difficulties applying, needed Environment Plugin
 
 **Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
+
+
+### Day 86-90 November 1-5, 2018
+
+**Today's Progress**: Header, sketch pad, art and web portfolio section layout
+
+**Thoughts**: I am still not sure of the layout but need to figure it out asap.
+
+**Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
