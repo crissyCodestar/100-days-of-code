@@ -554,3 +554,11 @@
 **Thoughts**: Restarted portfolio, needed a simpler layout than the previous version
 
 **Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
+
+### Day 80-85 October 26-31, 2018
+
+**Today's Progress**: Portfolio webpak, babel, react, react router, file configuration
+
+**Thoughts**: Webpak loaders configuration for css and url, had difficulties applying, needed Environment Plugin
+
+**Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
