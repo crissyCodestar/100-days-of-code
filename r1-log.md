@@ -262,3 +262,8 @@ Restarting portfolio, compiled webpak and babel. organizing folder
 ### R1D80-85
 
 Webpak, babel, react, react router, file configuration
+
+
+### R1D86-90
+
+Header, sketch pad, art and web portfolio section layout 
