@@ -1,4 +1,4 @@
-# Hello, I am Crystal and I have joined the #100DaysOfCode Challenge
+# Hello, I am Crystal and I have ~~joined~~ Finished the #100DaysOfCode Challenge
 
 I am doing this code challenge to successfully attain continuity as a developer in learning, asking, searching and achieving an endless amount of knowledge. My plan over these 100 days will be to enhance my understanding of JavaScript algorithms and data structures while also completing my portfolio website. I have a lot of shit to learn so Let's do this!
 
