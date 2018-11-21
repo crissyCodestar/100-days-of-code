@@ -267,3 +267,12 @@ Webpak, babel, react, react router, file configuration
 ### R1D86-90
 
 Header, sketch pad, art and web portfolio section layout 
+
+
+### R1D86-90
+
+Working on portfolio site and supporting hands. Adding code to github pages, setting up temp layout.
+
+### R1D86-90
+
+Still and will continue to work on AWS storage with S3, graphics and icons for site. CSS animation and transitions

@@ -571,3 +571,24 @@
 **Thoughts**: I am still not sure of the layout but need to figure it out asap.
 
 **Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0)
+
+
+### Day 91-95 November 6-10, 2018
+
+**Today's Progress**: Working on portfolio site and supporting hands. Adding code to github pages, setting up temp layout.
+
+**Thoughts**: Github pages not correctly adding app, I will need to deploy to set index file.
+
+**Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0), [Supporting Hands](https://crissycodestar.github.io/Supporting-Hand/)
+
+
+### Day 96-100 November 11-16, 2018
+
+**Today's Progress**: Still and will continue to work on AWS storage with S3, graphics and icons for site. CSS animation and transitions
+
+**Thoughts**: Not sure how I want to transition pages or how I can create a simple animation with After Effects
+
+**Link(s) to work**:[My Portfolio v2.0](https://github.com/crissygrant82/grant_v2.0), [Supporting Hands](https://crissycodestar.github.io/Supporting-Hand/)
+
+
+#Finished
